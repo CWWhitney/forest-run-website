@@ -18,7 +18,7 @@ Recover and reconnect with our wood-fired sauna and thermal wellness experiences
 ### Wellness Workshops
 - "Heat & Cold for Resilience" (2 hours)
 - "Injury Recovery with Thermal Therapy" (90 min)
-- "Mindful Cold Plunge" (1 hour)
+ # - "Mindful Cold Plunge" (1 hour)  # Removed by request
 - **Pricing**: $45-75/person
 
 ### Facility Rental
