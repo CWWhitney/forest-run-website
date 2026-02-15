@@ -1,0 +1,35 @@
+baseURL = "https://forestrun.org/"
+languageCode = "en-us"
+title = "Forest Run Collective"
+theme = "forest-run"
+
+[params]
+  author = "Forest Run Collective"
+  description = "Running, wellness & sauna experiences in Camden, Maine"
+  email = "whitney.cory@gmail.com"
+  phone = "+1-207-###-####"
+
+[outputs]
+  home = ["HTML", "JSON"]
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Services"
+    url = "/services/"
+    weight = 2
+  [[menu.main]]
+    name = "Bookings"
+    url = "/bookings/"
+    weight = 3
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 4
+  [[menu.main]]
+    name = "Contact"
+    url = "/contact/"
+    weight = 5
