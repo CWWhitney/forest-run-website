@@ -6,18 +6,18 @@ draft: false
 
 ## Our Story
 
-Forest Run Collective was founded with a simple vision: to create spaces where people can recover, reconnect, and fall in love with forests again.
+Forest Run Collective was founded with a simple vision: to create a sanctuary where people can recover, reconnect with nature, and experience authentic thermal wellness through our traditional wood-fired sauna.
 
 We're rooted in the Camden Hills of Maine—a landscape shaped by generations of trail-builders, runners, and stewards. Our 2-acre property sits adjacent to the Camden Snow Bowl and connects to an extensive trail network that draws runners and outdoor enthusiasts from across New England.
 
 ### Who We Are
 
-We're runners, trail advocates, and wellness practitioners who believe that nature isn't a luxury—it's essential.
+We're sauna practitioners, wellness advocates, and forest stewards who believe that authentic thermal experiences and nature immersion aren't luxuries—they're essential for health and resilience.
 
 Our team includes:
 - **Cory Whitney** - Founder & Operations
+- Trained sauna and thermal therapy practitioners
 - Trail guides certified in forest ecology and trail safety
-- Sauna and wellness practitioners trained in thermal therapy
 - Community volunteers dedicated to trail maintenance
 
 ### Our Values
@@ -43,11 +43,11 @@ Forest Run Collective LLC is wholly owned by the **Forest Run Non-Profit (501(c)
 
 ### Our Facilities
 
+**Sauna**: Traditional wood-fired design, cold plunge, tea service. A sanctuary for recovery, resilience, and connection.
+
 **The Cabin**: A rustic, comfortable 2-person retreat with wood stove, hot shower, and views of the forest canopy.
 
-**Sauna**: Traditional wood-fired design, cold plunge, tea service. A sanctuary for recovery and connection.
-
-**Trails**: Direct access to 15+ miles of maintained running and hiking trails in the Camden Hills.
+**Trails**: Direct access to 15+ miles of maintained trails in the Camden Hills for those interested in guided running or hiking.
 
 **Camping**: 2-3 premium tent sites on our property, intentionally minimal—no RVs, no generators, no noise.
 
