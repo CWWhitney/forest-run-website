@@ -5,7 +5,7 @@ languageCode = "en-us"
 title = "Forest Run Collective"
 theme = "beautifulhugo"
 
-[params]
+[Params]
   author = "Forest Run Collective"
   description = "Wood-fired sauna & thermal wellness retreat in Camden, Maine"
   email = "cory@forestrun.org"
@@ -15,6 +15,16 @@ theme = "beautifulhugo"
   logo = "images/Logo_Banner.png"
   favicon = "images/Logo_Circle_Black.png"
   banner = "images/Logo_Banner.png"
+  subtitle = "Retreat. Recover. Reconnect."
+  mainSections = ["services", "bookings", "about"]
+  socialShare = true
+  readingTime = true
+  showRelatedPosts = true
+  rss = true
+  comments = false
+  bigimg = [
+    { src = "images/Logo_Banner.png", desc = "Forest Run Banner" }
+  ]
 
 [outputs]
   home = ["HTML", "JSON"]
