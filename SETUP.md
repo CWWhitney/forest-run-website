@@ -14,7 +14,7 @@ This repository contains a Hugo static site for Forest Run Collective with integ
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR-USERNAME/forest-run-website.git
+git clone https://github.com/CWWhitney/forest-run-website.git
 cd forest-run-website
 
 # Start dev server
@@ -39,7 +39,7 @@ The site will hot-reload as you make changes.
    git add .
    git commit -m "Initial Forest Run website commit"
    git branch -M main
-   git remote add origin https://github.com/YOUR-USERNAME/forest-run-website.git
+   git remote add origin https://github.com/CWWhitney/forest-run-website.git
    git push -u origin main
    ```
 

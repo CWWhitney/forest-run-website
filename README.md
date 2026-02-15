@@ -12,7 +12,7 @@ Welcome to the Forest Run Collective website repository. This is a Hugo static s
 
 1. Clone the repo
    ```bash
-   git clone https://github.com/YOUR-USERNAME/forest-run-website.git
+   git clone https://github.com/CWWhitney/forest-run-website.git
    cd forest-run-website
    ```
 
