@@ -14,7 +14,3 @@
   from = "/contact"
   to = "/contact/"
   status = 301
-
-# Netlify Forms configuration
-[[plugins]]
-  package = "@netlify/plugin-nextjs"

@@ -1,7 +1,6 @@
 baseURL = "https://forestrun.org/"
 languageCode = "en-us"
 title = "Forest Run Collective"
-theme = "forest-run"
 
 [params]
   author = "Forest Run Collective"
