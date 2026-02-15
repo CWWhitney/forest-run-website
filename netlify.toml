@@ -1,0 +1,20 @@
+[build]
+  command = "hugo --gc --minify"
+  publish = "public"
+
+[build.environment]
+  HUGO_VERSION = "0.124.0"
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    Cache-Control = "public, max-age=3600"
+
+[[redirects]]
+  from = "/contact"
+  to = "/contact/"
+  status = 301
+
+# Netlify Forms configuration
+[[plugins]]
+  package = "@netlify/plugin-nextjs"

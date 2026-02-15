@@ -1,0 +1,19 @@
+{
+  "name": "forest-run-website",
+  "version": "1.0.0",
+  "description": "Forest Run Collective website - Hugo static site with bookings and payments",
+  "scripts": {
+    "build": "hugo --gc --minify",
+    "dev": "hugo server",
+    "preview": "hugo server --environment production"
+  },
+  "keywords": [
+    "running",
+    "wellness",
+    "sauna",
+    "trails",
+    "maine"
+  ],
+  "author": "Forest Run Collective",
+  "license": "MIT"
+}

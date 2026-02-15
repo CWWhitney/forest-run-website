@@ -1,0 +1,32 @@
+<footer class="site-footer">
+  <div class="footer-content">
+    <section class="footer-section">
+      <h4>Contact</h4>
+      <p>
+        {{ .Site.Params.email }}<br>
+        {{ .Site.Params.phone }}
+      </p>
+    </section>
+    
+    <section class="footer-section">
+      <h4>Location</h4>
+      <p>
+        Camden, Maine 04843<br>
+        Adjacent to Camden Hills
+      </p>
+    </section>
+    
+    <section class="footer-section">
+      <h4>Follow Us</h4>
+      <ul class="social-links">
+        <li><a href="https://instagram.com" target="_blank">Instagram</a></li>
+        <li><a href="https://facebook.com" target="_blank">Facebook</a></li>
+      </ul>
+    </section>
+  </div>
+  
+  <div class="footer-bottom">
+    <p>&copy; {{ now.Year }} Forest Run Collective. All rights reserved.</p>
+    <p><a href="#">Privacy Policy</a> | <a href="#">Terms of Service</a></p>
+  </div>
+</footer>

@@ -1,0 +1,55 @@
+<!-- Stripe Payment Widget - Add to any page where you want payment button -->
+
+<div id="stripe-payment-container">
+  <div id="card-element"></div>
+  <div id="card-errors" role="alert"></div>
+  <button id="submit-payment" class="btn btn-primary">
+    Complete Payment
+  </button>
+</div>
+
+<script>
+  // Initialize Stripe (replace with your public key)
+  const stripe = Stripe('pk_test_YOUR_PUBLISHABLE_KEY_HERE');
+  const elements = stripe.elements();
+  const cardElement = elements.create('card');
+  cardElement.mount('#card-element');
+
+  // Handle card errors
+  cardElement.addEventListener('change', (event) => {
+    const displayError = document.getElementById('card-errors');
+    if (event.error) {
+      displayError.textContent = event.error.message;
+    } else {
+      displayError.textContent = '';
+    }
+  });
+
+  // Handle payment submission
+  const form = document.getElementById('payment-form');
+  document.getElementById('submit-payment').addEventListener('click', async (e) => {
+    e.preventDefault();
+    
+    const {token} = await stripe.createToken(cardElement);
+    
+    if (token) {
+      // Send token to your server for processing
+      // For now, this is a placeholder
+      alert('Payment processing - implement server-side handling');
+    }
+  });
+</script>
+
+<style>
+  #card-element {
+    border: 1px solid #ddd;
+    padding: 10px;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+
+  #card-errors {
+    color: #fa755a;
+    margin-bottom: 10px;
+  }
+</style>
