@@ -58,7 +58,7 @@ Immerse yourself in nature with rustic, comfortable accommodations.
 
 All services can be booked through our [booking form](#/bookings/) with secure payment.
 
-**Questions?** Email us at {{< param email >}} or call {{< param phone >}}
+**Questions?** Email us at {{< param bookings_email >}}
 
 ---
 

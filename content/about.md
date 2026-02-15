@@ -58,7 +58,7 @@ Forest Run Collective LLC is wholly owned by the **Forest Run Non-Profit (501(c)
 **Forest Run Collective**  
 Camden, Maine 04843  
 {{< param email >}}  
-{{< param phone >}}
+{{< param bookings_email >}}
 
 **Hours**: Tuesday-Saturday, 9am-5pm ET
 

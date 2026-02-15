@@ -6,7 +6,8 @@ title = "Forest Run Collective"
   author = "Forest Run Collective"
   description = "Wood-fired sauna & thermal wellness retreat in Camden, Maine"
   email = "cory@forestrun.org"
-  phone = "+1-207-###-####"
+  admin_email = "admin@forestrun.org"
+  bookings_email = "booking@forestrun.org"
 
 [outputs]
   home = ["HTML", "JSON"]

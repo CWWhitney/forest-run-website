@@ -23,8 +23,7 @@ Have questions? Want to collaborate? Reach out—we love hearing from people pas
   </div>
 
   <div class="form-group">
-    <label for="phone">Phone</label>
-    <input type="tel" name="phone" id="phone">
+    <!-- Phone field removed -->
   </div>
 
   <div class="form-group">
@@ -52,7 +51,7 @@ Have questions? Want to collaborate? Reach out—we love hearing from people pas
 ### Direct Contact
 
 **Email**: {{< param email >}}  
-**Phone**: {{< param phone >}}  
+**Email**: {{< param admin_email >}}  
 **Hours**: Tuesday-Saturday, 9am-5pm ET
 
 **In-Person**: Visits by appointment. Our location is nestled in the Camden Hills—we can provide directions once your visit is scheduled.
