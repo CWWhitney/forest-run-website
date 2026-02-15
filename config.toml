@@ -1,6 +1,8 @@
+
 baseURL = "https://forestrun.org/"
 languageCode = "en-us"
 title = "Forest Run Collective"
+theme = "beautifulhugo"
 
 [params]
   author = "Forest Run Collective"
@@ -8,6 +10,10 @@ title = "Forest Run Collective"
   email = "cory@forestrun.org"
   admin_email = "admin@forestrun.org"
   bookings_email = "booking@forestrun.org"
+  facebook = "https://www.facebook.com/profile.php?id=100086437062759"
+  logo = "images/Logo_Banner.png"
+  favicon = "images/Logo_Circle_Black.png"
+  banner = "images/Logo_Banner.png"
 
 [outputs]
   home = ["HTML", "JSON"]
