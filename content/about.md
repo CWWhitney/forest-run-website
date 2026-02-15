@@ -1,8 +1,8 @@
----
 title: "About Forest Run"
 description: "Our mission, values, and story"
 draft: false
----
+
+![Forest Run Logo](/images/Logo_Circle_Black.png)
 
 ## Our Story
 
