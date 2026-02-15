@@ -1,6 +1,4 @@
-[params]
-  ...existing code...
-  banner = "images/Logo_Banner.png"
+
 
 baseURL = "https://forestrun.org/"
 languageCode = "en-us"
