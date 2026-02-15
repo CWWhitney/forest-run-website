@@ -50,17 +50,13 @@
       </div>
 
       <button type="submit" class="btn btn-primary">Submit Booking Request</button>
+
     </form>
 
-    <div class="payment-info">
-      <h3>Payment</h3>
-      <p>We accept payments via:</p>
-      <ul>
-        <li><strong>Credit Card</strong> (Stripe)</li>
-        <li><strong>PayPal</strong></li>
-        <li><strong>Direct Bank Transfer</strong></li>
-      </ul>
-      <p>After you submit your booking request, we'll send you a payment link. A $50 deposit reserves your spot; final payment is due 7 days before your experience.</p>
+    <div class="payment-widget">
+      <h3>Pay Your Deposit</h3>
+      <p>Secure your booking instantly with a $50 deposit. After submitting your booking request, you can pay now or wait for our confirmation email with a payment link.</p>
+      {{ partial "stripe-payment.html" . }}
       <p><strong>Cancellation Policy</strong>: Free cancellation up to 14 days before your booking. Deposits are non-refundable within 7 days.</p>
     </div>
 
