@@ -5,6 +5,11 @@ languageCode = "en-us"
 title = "Forest Run Collective"
 theme = "beautifulhugo"
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [Params]
   description = "Wood-fired sauna & thermal wellness retreat in Camden, Maine"
   email = "cory@forestrun.org"
