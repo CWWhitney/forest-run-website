@@ -26,9 +26,6 @@ theme = "beautifulhugo"
   showRelatedPosts = true
   rss = true
   comments = false
-  bigimg = [
-    { src = "images/Logo_Banner.png", desc = "Forest Run Banner" }
-  ]
 
 [Params.author]
   name = "Forest Run Collective"
