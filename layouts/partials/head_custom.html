@@ -13,13 +13,12 @@
 }
 
 .navbar-custom .avatar-container .avatar-img {
-  width: 115px !important;
-  height: 115px !important;
-  max-width: 100% !important;
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
   border-radius: 50% !important;
-  object-fit: cover !important;
-  transform: scale(1.3) !important;
-  padding: 0 !important;
+  object-fit: contain !important;
+  padding: 5px !important;
   margin: 0 !important;
 }
 
@@ -32,13 +31,13 @@
 
 /* Adjust for mobile */
 @media (max-width: 768px) {
-  .navbar-custom .avatar-container .avatar-img-border,
-  .navbar-custom .avatar-container .avatar-img {
+  .navbar-custom .avatar-container .avatar-img-border {
     width: 75px !important;
     height: 75px !important;
   }
   .navbar-custom .avatar-container .avatar-img {
-    transform: scale(1.3) !important;
+    width: 100% !important;
+    height: 100% !important;
   }
 }
 </style>
