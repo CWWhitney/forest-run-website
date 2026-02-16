@@ -6,7 +6,6 @@ title = "Forest Run Collective"
 theme = "beautifulhugo"
 
 [Params]
-  author = "Forest Run Collective"
   description = "Wood-fired sauna & thermal wellness retreat in Camden, Maine"
   email = "cory@forestrun.org"
   admin_email = "admin@forestrun.org"
@@ -25,6 +24,9 @@ theme = "beautifulhugo"
   bigimg = [
     { src = "images/Logo_Banner.png", desc = "Forest Run Banner" }
   ]
+
+[Params.author]
+  name = "Forest Run Collective"
 
 [outputs]
   home = ["HTML"]
