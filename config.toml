@@ -27,7 +27,7 @@ theme = "beautifulhugo"
   ]
 
 [outputs]
-  home = ["HTML", "JSON"]
+  home = ["HTML"]
 
 [menu]
   [[menu.main]]
