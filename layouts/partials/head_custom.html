@@ -1,19 +1,21 @@
 <style>
 /* Remove oval background behind logo, scale bigger, center align */
 .navbar-custom .avatar-container .avatar-img-border {
-  background: none !important;
+  background: #333 !important;
   border: none !important;
   box-shadow: none !important;
-  width: auto !important;
-  height: auto !important;
-  border-radius: 0 !important;
+  width: 150px !important;
+  height: 150px !important;
+  border-radius: 50% !important;
+  overflow: hidden !important;
 }
 
 .navbar-custom .avatar-container .avatar-img {
-  width: 180px !important;
-  height: auto !important;
+  width: 150px !important;
+  height: 150px !important;
   max-width: 100% !important;
-  border-radius: 0 !important;
+  border-radius: 50% !important;
+  object-fit: cover !important;
 }
 
 .navbar-custom .avatar-container {
@@ -25,8 +27,10 @@
 
 /* Adjust for mobile */
 @media (max-width: 768px) {
+  .navbar-custom .avatar-container .avatar-img-border,
   .navbar-custom .avatar-container .avatar-img {
-    width: 140px !important;
+    width: 100px !important;
+    height: 100px !important;
   }
 }
 </style>
