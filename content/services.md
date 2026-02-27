@@ -17,8 +17,6 @@ Recover and reconnect with our wood-fired sauna and thermal wellness experiences
 
 ### Wellness Workshops
 - "Heat & Cold for Resilience" (2 hours)
-- "Injury Recovery with Thermal Therapy" (90 min)
- # - "Mindful Cold Plunge" (1 hour)  # Removed by request
 - **Pricing**: $45-75/person
 
 ### Facility Rental
@@ -58,7 +56,7 @@ Immerse yourself in nature with rustic, comfortable accommodations.
 
 All services can be booked through our [booking form](#/bookings/) with secure payment.
 
-**Questions?** Email us at {{< param bookings_email >}}
+**Questions?** Email us at booking@forestrun.org
 
 ---
 

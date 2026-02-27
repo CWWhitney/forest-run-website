@@ -21,7 +21,6 @@ Welcome to Forest Run Collective! Reserve your sauna, wellness, or lodging exper
 **Sauna & Wellness**
 - Open Sauna Hours: $35/person (1 hour)
 - Private Sauna Session: $180/group of 5+ (1 hour)
-- Wellness Workshops: $45–$75/person
 
 **Lodging**
 - Cabin: $150–$200/night (2–4 people)
@@ -69,7 +68,7 @@ Welcome to Forest Run Collective! Reserve your sauna, wellness, or lodging exper
 
 ---
 
-**Questions?** Email [cory@forestrun.org](mailto:cory@forestrun.org)
+**Questions?** Email [cory@forestrun.org](mailto:booking@forestrun.org)
 
 **Cancellation Policy:** Free cancellation up to 14 days before your booking.
 
