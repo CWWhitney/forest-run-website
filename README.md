@@ -1,66 +1,20 @@
 # Forest Run Collective Website
 
-Welcome to the Forest Run Collective website repository. This is a Hugo static site deployed on Netlify.
+Welcome to the Forest Run Collective website repository. 
 
-## Getting Started
+This is a Hugo static site deployed on Netlify.
 
-### Prerequisites
-- [Hugo](https://gohugo.io/installation/) (v0.124.0 or later)
-- Git
+Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries with `bibtex_2academic.R`: 
 
-### Local Development
+- see the site locally
+blogdown::serve_site()
 
-1. Clone the repo
-   ```bash
-   git clone https://github.com/CWWhitney/forest-run-website.git
-   cd forest-run-website
-   ```
+- see the site online
+blogdown::build_site()
 
-2. Start the Hugo development server
-   ```bash
-   hugo server
-   ```
+- build site in Terminal
+hugo server 
 
-3. Open `http://localhost:1313` in your browser
+# build with Netlify
 
-### Building
-
-Build the site for production:
-```bash
-hugo --gc --minify
-```
-
-This creates the `public/` folder, which Netlify automatically deploys on git push.
-
-## File Structure
-
-- `content/` - All page content (markdown files)
-- `static/` - Static files (images, PDFs, CSS)
-- `layouts/` - HTML templates
-- `config.toml` - Site configuration
-- `netlify.toml` - Netlify build configuration
-
-## Bookings & Payments
-
-### Booking Form
-- Uses Netlify Forms (backend: `/bookings/`)
-- Customers submit booking requests
-- You receive email notifications
-
-### Payment Integration
-- Stripe payment button on service pages
-- PayPal button as fallback
-- See `layouts/_default/services.html` for implementation
-
-## Deployment
-
-This site auto-deploys to Netlify on every push to `main` branch.
-
-1. Connect repo to Netlify
-2. Set build command: `hugo --gc --minify`
-3. Set publish directory: `public`
-4. Connect custom domain: `forestrun.org`
-
-## License
-
-MIT License
+[![Netlify Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)

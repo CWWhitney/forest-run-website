@@ -68,7 +68,7 @@ Welcome to Forest Run Collective! Reserve your sauna, wellness, or lodging exper
 
 ---
 
-**Questions?** Email [cory@forestrun.org](mailto:booking@forestrun.org)
+**Questions?** Email {{< param bookings_email >}}
 
 **Cancellation Policy:** Free cancellation up to 14 days before your booking.
 
