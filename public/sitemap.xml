@@ -2,22 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/about/</loc>
+    <loc>https://forestrun.org/gallery/</loc>
   </url><url>
-    <loc>http://localhost:1313/bookings/</loc>
+    <loc>https://forestrun.org/bookings/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://forestrun.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/contact/</loc>
+    <loc>https://forestrun.org/contact/</loc>
   </url><url>
-    <loc>http://localhost:1313/gallery/</loc>
+    <loc>https://forestrun.org/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/services/</loc>
+    <loc>https://forestrun.org/services/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://forestrun.org/tags/</loc>
   </url><url>
-    <loc>http://localhost:1313/success/</loc>
+    <loc>https://forestrun.org/success/</loc>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://forestrun.org/</loc>
   </url>
 </urlset>
