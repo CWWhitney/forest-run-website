@@ -1,16 +1,15 @@
 ---
 title: "Book an Experience"
-description: "Reserve your Forest Run sauna, wellness, or lodging experience in Camden, Maine."
+description: "Reserve"
 draft: false
 ---
 
 ## Book Your Forest Run Experience
 
-Welcome to Forest Run Collective! Reserve your sauna, wellness, or lodging experience below.
+Welcome to Forest Run Collective! Reserve our sauna
 
 ### How to Book
 
-1. Review our available services and pricing below
 2. Fill out the booking request form
 3. We'll confirm your booking and send payment details by email
 
@@ -21,13 +20,6 @@ Welcome to Forest Run Collective! Reserve your sauna, wellness, or lodging exper
 **Sauna & Wellness**
 - Open Sauna Hours: $35/person (1 hour)
 - Private Sauna Session: $180/group of 5+ (1 hour)
-
-**Lodging**
-- Cabin: $150–$200/night (2–4 people)
-- Premium Camping: $60/night (up to 4 people)
-
-**Guided Running**
-- Group Runs, Training Camps, Technique Consultations: Contact for pricing
 
 ---
 
