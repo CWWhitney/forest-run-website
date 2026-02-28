@@ -1,8 +1,6 @@
----
 title: "Gallery"
 description: "Forest Run in pictures."
 draft: false
----
 
 Welcome to our gallery! Here are some images from Forest Run:
 
