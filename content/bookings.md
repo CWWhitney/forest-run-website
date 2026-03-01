@@ -1,10 +1,10 @@
 ---
-title: "Book an Experience"
+title: "Booking"
 description: "Reserve"
 draft: false
 ---
 
-## Book Your Forest Run Experience
+## Booking at Forest Run
 
 Welcome to Forest Run Collective! 
 
