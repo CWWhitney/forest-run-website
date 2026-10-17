@@ -1,23 +1,25 @@
 ---
 title: "Gallery"
-description: "Build photos from Forest Run"
+description: "Photos of the Forest Run house and sauna build in Camden, Maine, and Joel Whitney's drawings"
 draft: false
 ---
 
-This gallery highlights the build process at Forest Run, including the icosahedron house and sauna.
+Photos from the build at Forest Run. Click any photo to see it full size.
 
-![Forest Run Banner](/images/Logo_Banner.png)
+## House {#house}
 
-![Forest Run Logo Black](/images/Logo_Circle_Black.png)
+The icosahedron house, nearly complete.
 
-![Forest Run Logo White](/images/Logo_circle_white.png)
+{{< gallery >}}
 
-## Build Albums
+## Sauna {#sauna}
 
-- Phase 1: Site setup and planning
-- Phase 2: Structural framing
-- Phase 3: Sauna systems and finishes
+The wood-fired sauna, built first.
 
-As photo volume grows, full-resolution albums are hosted externally and linked from this page.
+{{< gallery dir="images/sauna" alt="Forest Run sauna" >}}
 
-<!-- Add curated images here and link to full external albums -->
+## Drawings {#drawings}
+
+Joel's sketches and plans for the house.
+
+{{< gallery dir="images/drawings" fit="contain" alt="Icosahedron house drawing" >}}

@@ -1,36 +1,27 @@
 ---
-title: "Forest Run: Recovery and Build Journal"
-description: "Follow the icosahedron house and sauna build at Forest Run in Camden, Maine."
+title: "Forest Run"
+description: "A wood-fired sauna and an icosahedron house, built by hand on Emery Way in Camden, Maine."
 draft: false
 ---
 
-# Forest Run: Recovery and Build Journal
+# Forest Run
 
-Forest Run is located on land I own in Camden, Maine and was planned as a running oasis.
+Forest Run is a piece of land on Emery Way in Camden, Maine, next to the Camden Snow Bowl and a wide network of trails used by runners and hikers. I bought it in 2019 with a simple idea: a place for running, recovery and time in the woods.
 
-After a serious cycling accident in Germany, I am still recovering from multiple surgeries and rebuilding my left knee. During this chapter, my father has been leading construction work on the site: an icosahedron house and a wood-fired sauna.
+In 2022 we received the building permit. In 2024 my father, Joel Whitney, and I started building. We built the **sauna first**, and the **icosahedron house** is now nearly complete.
 
-This site now documents that process while we continue building the long-term Forest Run vision.
+[The story so far](/build-journal/) | [The house and sauna](/house-sauna/) | [Photos](/gallery/)
 
-[Follow the Build Journal](/build-journal/) | [House and Sauna Overview](/house-sauna/) | [Book the Sauna](/bookings/)
+## What we are building
 
-## Current Focus
+- **A wood-fired sauna**, the first thing we built.
+- **An icosahedron house**, a twenty-sided shape built from triangles, with plans drawn by Joel. It is nearly complete.
+- **A running and recovery retreat** on the edge of the Camden Hills, which is where the project is headed.
 
-- Build progress updates with photos from each phase
-- Completion of the icosahedron house shell and systems
-- Sauna operation and guest access planning
-- Long-term development of Forest Run as a running and recovery destination
+## Latest
 
-## Organization Structure
+The house is nearly complete. See [the build journal](/build-journal/) for how we got here and the [gallery](/gallery/) for photos of the sauna, the house and Joel's drawings.
 
-- **Forest Run**: the project and place in Camden, Maine
-- **Forest Run (Nonprofit)**: mission-driven programming and community impact
-- **Forest Run Collective (LLC)**: operating entity for services and business activities
+## Visiting
 
-## Latest Updates
-
-Visit the [Build Journal](/build-journal/) for dated updates and progress photos.
-
-## Contact
-
-Questions, encouragement, or collaboration ideas are welcome at {{< param email >}}.
+We are still building, so visits and sauna sessions are limited and by arrangement. See [booking](/bookings/) or [get in touch](/contact/) at {{< param email >}}.

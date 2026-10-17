@@ -1,34 +1,33 @@
 ---
 title: "Build Journal"
-description: "Ongoing updates from the Forest Run build"
+description: "How the Forest Run sauna and icosahedron house came together, from buying the land in 2019 to a nearly finished house"
 draft: false
 ---
 
-This journal tracks progress on the Forest Run property, including the icosahedron house and sauna.
+The story of Forest Run so far: a piece of land, a permit, and two buildings made by hand by Joel Whitney and me.
 
-## Update Format
+## 2019: the land
 
-Each update includes:
+I bought the land on Emery Way in Camden, Maine. It sits next to the Camden Snow Bowl and a broad trail network, and the plan from the start was a place built around running, recovery and nature.
 
-- Date and build phase
-- What changed since the previous update
-- Challenges encountered and decisions made
-- 5 to 20 curated photos
+## 2022: the building permit
 
-## Photo Strategy
+After the planning and drawing work, we received the building permit. Joel's sketches and dimensioned drawings of the icosahedron house, shown on the [house and sauna page](/house-sauna/), come from this stage.
 
-To keep the repository fast and manageable:
+## 2024: construction begins
 
-- Upload full-resolution originals to external object storage (for example: Cloudflare R2, Backblaze B2, or S3)
-- Link those external albums from each update
-- Keep only selected web-optimized images on this site
+My father and I started building. We built the **sauna** first.
 
-## Photos
+## The sauna
 
-Click a photo to see it full size.
+The sauna is wood-fired and was the first thing we finished. See the [photos](/gallery/#sauna).
 
-{{< gallery >}}
+## The house
 
-## Next Update
+With the sauna built, the work moved to the **icosahedron house**. It is now nearly complete. The [gallery](/gallery/#house) has photos from the build.
 
-The next post will include current construction progress led by my father while I continue recovery.
+## What's next
+
+Finishing the house, then opening Forest Run up more widely for running, recovery and the sauna. New updates and photos will be added here as the work goes on.
+
+Questions or want to follow along? Write to {{< param email >}}.

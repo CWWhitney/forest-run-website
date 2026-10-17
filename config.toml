@@ -11,7 +11,7 @@ theme = "beautifulhugo"
       unsafe = true
 
 [Params]
-  description = "Wood-fired sauna & thermal wellness retreat in Camden, Maine"
+  description = "A wood-fired sauna and icosahedron house, built by hand in Camden, Maine"
   email = "cory@forestrun.org"
   admin_email = "admin@forestrun.org"
   bookings_email = "booking@forestrun.org"

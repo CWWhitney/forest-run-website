@@ -1,20 +1,24 @@
-# Forest Run Collective Website
+# Forest Run website
 
-Welcome to the Forest Run Collective website repository. 
+Source for [forestrun.org](https://forestrun.org): the sauna and icosahedron
+house at Forest Run in Camden, Maine. Hugo site, deployed by Netlify.
 
-This is a Hugo static site deployed on Netlify.
+[![Netlify Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)](https://app.netlify.com/)
 
-Run the site with these from `blogdown`, `RefManageR` and `anytime` libraries with `bibtex_2academic.R`: 
+- preview the site locally: `blogdown::serve_site()` (needs Hugo 0.130.0, the
+  version Netlify uses: `blogdown::install_hugo("0.130.0")` and
+  `options(blogdown.hugo.version = "0.130.0")`)
 
-- see the site locally
-blogdown::serve_site()
+- edit pages in `content/`, menu and emails in `config.toml`
 
-- see the site online
-blogdown::build_site()
+- add photos: put the originals in a folder outside this repo, then run
+  `python3 -I scripts/process-photos.py "<folder>" build` (or `sauna`).
+  Sketches: `python3 -I scripts/process-sketches.py "<folder>" drawings`.
+  This makes small web copies with GPS data removed in `static/images/`.
+  Show them on a page with `{{< gallery dir="images/sauna" >}}`
+  (default `images/build`; add `fit="contain"` for drawings)
 
-- build site in Terminal
-hugo server 
+- publish: commit and push. Netlify builds the live site
 
-# build with Netlify
-
-[![Netlify Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)
+Keep the git repo out of Dropbox (it corrupted `.git` once). Do not edit
+`public/` or `themes/`.

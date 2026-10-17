@@ -1,36 +1,31 @@
 ---
 title: "House and Sauna"
-description: "Overview of the icosahedron house and sauna project at Forest Run"
+description: "The wood-fired sauna and icosahedron house at Forest Run in Camden, Maine, designed and built by Joel and Cory Whitney"
 draft: false
 ---
 
-## Project Overview
+Two buildings make up Forest Run: a wood-fired sauna and an icosahedron house. Joel Whitney and I have built both ourselves on our land on Emery Way in Camden, Maine, starting in 2024 after the building permit came through in 2022.
 
-Forest Run is in a build phase centered on two key structures:
+## The sauna
 
-- An **icosahedron house** designed as a long-term anchor for the property
-- A **wood-fired sauna** supporting recovery and wellness experiences
+We built the sauna first. It is wood-fired. Access is limited and by arrangement for now. See [booking](/bookings/) or [contact us](/contact/).
 
-While I recover from injury, my father is leading this work on site.
+[See sauna photos](/gallery/#sauna)
 
-## Current Priorities
+## The house
 
-- Complete major construction milestones safely
-- Document each phase with clear photo updates
-- Maintain limited sauna access by inquiry where possible
+The house is an **icosahedron**: a twenty-sided shape made of triangles that meet at pentagons. Joel's drawings below cover the floor plan, the loft, the deck framing and the geometry behind the shape, and he has led much of the work on site. The house is nearly complete.
 
-## Design Drawings
+[See house photos](/gallery/#house)
 
-Sketches and plans for the icosahedron house, drawn by my father.
+## Design drawings
+
+Joel's sketches and plans for the house: floor plans, the loft, deck framing, the wall section and the geometry behind the shape. Click a drawing to see it larger.
 
 {{< gallery dir="images/drawings" fit="contain" alt="Icosahedron house drawing" >}}
 
-## Sauna Photos
+## Follow along
 
-{{< gallery dir="images/sauna" >}}
-
-## Follow Progress
-
-- [Build Journal](/build-journal/)
-- [Gallery](/gallery/)
+- [Build journal](/build-journal/): how the project got here
+- [Gallery](/gallery/): photos of the sauna, the house and the drawings
 - [Contact](/contact/)
