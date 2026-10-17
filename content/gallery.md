@@ -1,8 +1,10 @@
+---
 title: "Gallery"
-description: "Forest Run in pictures."
+description: "Build photos from Forest Run"
 draft: false
+---
 
-Welcome to our gallery! Here are some images from Forest Run:
+This gallery highlights the build process at Forest Run, including the icosahedron house and sauna.
 
 ![Forest Run Banner](/images/Logo_Banner.png)
 
@@ -10,4 +12,12 @@ Welcome to our gallery! Here are some images from Forest Run:
 
 ![Forest Run Logo White](/images/Logo_circle_white.png)
 
-<!-- Add more images here as you upload them to static/images -->
+## Build Albums
+
+- Phase 1: Site setup and planning
+- Phase 2: Structural framing
+- Phase 3: Sauna systems and finishes
+
+As photo volume grows, full-resolution albums are hosted externally and linked from this page.
+
+<!-- Add curated images here and link to full external albums -->

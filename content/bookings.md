@@ -8,13 +8,15 @@ draft: false
 
 Welcome to Forest Run Collective! 
 
-Nothing is happening yet — we are still building!
+Forest Run is in an active construction period, with the icosahedron house and sauna still being developed.
 
-The only thing here right now is a sauna. If you would like to use the sauna or are interested in learning more, please contact us.
+Sauna sessions may be available on a limited basis. Please email us with your preferred dates, number of guests, and any special requests.
 
 ---
 
 **Questions?** Email {{< param bookings_email >}}
 
 **Cancellation Policy:** Free cancellation up to 14 days before your booking.
+
+For build updates, see the [Build Journal](/build-journal/).
 

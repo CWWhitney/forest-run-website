@@ -1,6 +1,6 @@
 ---
-title: "Forest Run Collective"
-description: "Story and facilities"
+title: "About Forest Run"
+description: "Story, structure, and build progress"
 draft: false
 ---
 
@@ -8,17 +8,32 @@ draft: false
 
 ## Our Story
 
-Forest Run Collective was founded with a simple vision: to create a sanctuary where people can recover and reconnect with nature. Our 2-acre property sits adjacent to the Camden Snow Bowl and connects to an extensive trail network that draws runners and outdoor enthusiasts from across New England.
+Forest Run is located on land I own in Camden, Maine, adjacent to the Camden Snow Bowl and connected to a broad trail network used by runners and outdoor enthusiasts.
 
-Nothing is happening yet — we are still building!
+The original plan was to create a running oasis focused on recovery, movement, and nature.
 
-The only thing here right now is a sauna. If you would like to use the sauna or are interested in learning more, please contact us.
+After a serious cycling accident in Germany, I am in a long recovery phase. While I heal, my father has been carrying the project forward by building the icosahedron house and sauna on site.
+
+We are sharing that journey publicly through regular updates and photos.
+
+## Forest Run Entities
+
+- **Forest Run (Nonprofit)** supports the mission and long-term community-oriented programming.
+- **Forest Run Collective (LLC)** supports operations and service delivery.
+
+## What Is Happening Now
+
+- Ongoing construction of the icosahedron house
+- Continued sauna development and operations planning
+- Build documentation and progress updates in the journal
+
+See [House and Sauna Overview](/house-sauna/) and [Build Journal](/build-journal/) for details.
 
 ---
 
 ## Contact
 
-**Forest Run Collective**  
+**Forest Run**  
 Camden, Maine 04843  
 {{< param email >}}  
 

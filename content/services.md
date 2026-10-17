@@ -4,8 +4,13 @@ description: "Wood-fired sauna wellness, overnight stays, and trail experiences 
 draft: false
 ---
 
-Nothing is happening yet — we are still building!
+## Current Services
 
-The only thing here right now is a sauna. If you would like to use the sauna or are interested in learning more, please contact us.
+Forest Run is in an active build phase. The main service currently available is the sauna by inquiry.
+
+If you are interested in access, please contact us with your preferred dates and group size.
 
 - **Pricing**: Contact for details
+- **Availability**: Limited while construction is ongoing
+
+For construction updates, visit the [Build Journal](/build-journal/).
