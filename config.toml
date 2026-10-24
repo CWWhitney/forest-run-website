@@ -47,13 +47,9 @@ theme = "beautifulhugo"
     url = "/house-sauna/"
     weight = 3
   [[menu.main]]
-    name = "Photographs"
-    url = "/gallery/"
-    weight = 5
-  [[menu.main]]
     name = "Visit"
     url = "/bookings/"
-    weight = 6
+    weight = 5
   [[menu.main]]
     name = "Journal"
     url = "/build-journal/"
