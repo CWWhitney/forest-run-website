@@ -1,51 +1,13 @@
 ---
-title: "About Forest Run"
-description: "The story of Forest Run: land on Emery Way in Camden, Maine, a father-and-son-built icosahedron sauna and house, by Joel and Cory Whitney"
+title: "The Forest Run Project"
+description: "The idea behind Forest Run: trails, recovery, and a hand-built geometric house and sauna in Camden, Maine."
 draft: false
 ---
 
-![Forest Run Logo](/images/Logo_Circle_Black.png)
+Forest Run is a project in Camden, Maine, beside the Camden Snow Bowl and a network of trails. The idea is straightforward: make a place for movement, recovery, and time in the woods.
 
-## Our story
+The work began with planning and a building permit in 2022. In 2024, Joel Whitney and his son Cory began construction. They built the wood-fired sauna first. The house followed: an unusual one-V design based on the geometry of an icosahedron.
 
-I bought the land for Forest Run on Emery Way in Camden, Maine, in 2019.
-It sits next to the Camden Snow Bowl and is connected to a broad trail
-network used by runners and outdoor enthusiasts. The idea was a running
-oasis built around recovery, movement and nature.
+The buildings are one part of Forest Run. The longer aim is a place where trail use and recovery belong together. The site is still being built. Its story is in the [journal](/build-journal/), and the [gallery](/gallery/) shows the work so far.
 
-We received the building permit in 2022, and in 2024 my father, **Joel
-Whitney**, and I started building. We did the sauna first, and the
-icosahedron house is now nearly complete.
-
-After a serious cycling accident in Germany, I am recovering from
-several surgeries on my left knee. Joel has carried much of the work on
-site.
-
-## What is here
-
-- A **wood-fired sauna**, available on a limited basis by arrangement
-- An **icosahedron house**, nearly complete
-- Trails, woods and the Camden Hills right outside the door
-
-See [the house and sauna](/house-sauna/), [the build
-journal](/build-journal/) and [photos](/gallery/).
-
-## Forest Run entities
-
-- **Forest Run (Nonprofit)** supports the mission and long-term
-  community programming.
-- **Forest Run Collective (LLC)** handles operations and services.
-
-------------------------------------------------------------------------
-
-## Contact
-
-**Forest Run**  
-Camden, Maine 04843  
-{{< param email >}}
-
-**Hours**: Tuesday-Saturday, 9am-5pm ET
-
-**Mailing Address**:  
-Forest Run Collective  
-Camden, Maine 04843
+For current information about visits or sauna sessions, [contact us](/contact/).

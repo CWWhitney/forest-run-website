@@ -1,22 +1,11 @@
 ---
-title: "Booking"
-description: "Reserve"
+title: "Visit"
+description: "Ask about current visits and sauna availability at Forest Run in Camden, Maine."
 draft: false
 ---
 
-## Booking at Forest Run
+Forest Run is still being built. Sauna sessions and visits may be possible by arrangement, depending on current work on site.
 
-Welcome to Forest Run Collective! 
+For current availability, email {{< param bookings_email >}} with your preferred dates and group size. We will let you know what is possible.
 
-Forest Run is in an active construction period, with the icosahedron house and sauna still being developed.
-
-Sauna sessions may be available on a limited basis. Please email us with your preferred dates, number of guests, and any special requests.
-
----
-
-**Questions?** Email {{< param bookings_email >}}
-
-**Cancellation Policy:** Free cancellation up to 14 days before your booking.
-
-For build updates, see the [Build Journal](/build-journal/).
-
+For background on the project, see the [build journal](/build-journal/) and [photographs](/gallery/).

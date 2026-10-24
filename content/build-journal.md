@@ -1,33 +1,27 @@
 ---
 title: "Build Journal"
-description: "How the Forest Run sauna and icosahedron house came together, from buying the land in 2019 to a nearly finished house"
+description: "The Forest Run build in Camden, Maine: from the first idea to a one-V, icosahedron house and wood-fired sauna."
 draft: false
 ---
 
-The story of Forest Run so far: a piece of land, a permit, and two buildings made by hand by Joel Whitney and me.
+The Forest Run build is a family project by Joel and Cory Whitney. Here are the main steps so far.
 
-## 2019: the land
+## 2019 · The idea
 
-I bought the land on Emery Way in Camden, Maine. It sits next to the Camden Snow Bowl and a broad trail network, and the plan from the start was a place built around running, recovery and nature.
+Forest Run began with a plan for a place connected to running, recovery, and the woods near the Camden Snow Bowl.
 
-## 2022: the building permit
+## 2022 · Design and permit
 
-After the planning and drawing work, we received the building permit. Joel's sketches and dimensioned drawings of the icosahedron house, shown on the [house and sauna page](/house-sauna/), come from this stage.
+The one-V house design took shape, and the building permit followed.
 
-## 2024: construction begins
+## 2024 · Construction
 
-My father and I started building. We built the **sauna** first.
+Joel and Cory began on site and built the wood-fired sauna first. Work then moved to the house: its frame, roof, and exterior.
 
-## The sauna
+![The roof taking shape on the one-V house](/images/house/house-roofing-progress.jpg)
 
-The sauna is wood-fired and was the first thing we finished. See the [photos](/gallery/#sauna).
+## Now
 
-## The house
+The house is nearing completion. The [photographs](/gallery/#house) show the build; the [house and sauna page](/house-sauna/) explains the design.
 
-With the sauna built, the work moved to the **icosahedron house**. It is now nearly complete. The [gallery](/gallery/#house) has photos from the build.
-
-## What's next
-
-Finishing the house, then opening Forest Run up more widely for running, recovery and the sauna. New updates and photos will be added here as the work goes on.
-
-Questions or want to follow along? Write to {{< param email >}}.
+For updates or current information about visiting, [get in touch](/contact/).

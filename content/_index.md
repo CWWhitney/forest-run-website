@@ -1,27 +1,21 @@
 ---
 title: "Forest Run"
-description: "A wood-fired sauna and an icosahedron house, built by hand on Emery Way in Camden, Maine."
+description: "A wooded place in Camden, Maine, with trails, a wood-fired sauna, and a one-V, icosahedron house built by hand."
 draft: false
 ---
 
 # Forest Run
 
-Forest Run is a piece of land on Emery Way in Camden, Maine, next to the Camden Snow Bowl and a wide network of trails used by runners and hikers. I bought it in 2019 with a simple idea: a place for running, recovery and time in the woods.
+Forest Run is taking shape beside the Camden Snow Bowl, among the trails and woods of Camden, Maine. The project brings together running, time outdoors, and recovery.
 
-In 2022 we received the building permit. In 2024 my father, Joel Whitney, and I started building. We built the **sauna first**, and the **icosahedron house** is now nearly complete.
+We began building in 2024: first a wood-fired sauna, then a house with an unusual form. Its one-V design is an icosahedron, built from triangles. Joel Whitney designed it and is building it with his son Cory.
 
-[The story so far](/build-journal/) | [The house and sauna](/house-sauna/) | [Photos](/gallery/)
+![The timber geometry of the one-V house at Forest Run](/images/house/house-frame-interior.jpg)
 
-## What we are building
+[The project](/about/) · [House and sauna](/house-sauna/) · [Build journal](/build-journal/) · [Selected photographs](/gallery/)
 
-- **A wood-fired sauna**, the first thing we built.
-- **An icosahedron house**, a twenty-sided shape built from triangles, with plans drawn by Joel. It is nearly complete.
-- **A running and recovery retreat** on the edge of the Camden Hills, which is where the project is headed.
+## A place for trails and recovery
 
-## Latest
+Forest Run began with an idea: make a place where a day outdoors could include a run, a sauna, and time to slow down. The house and sauna are part of that larger plan.
 
-The house is nearly complete. See [the build journal](/build-journal/) for how we got here and the [gallery](/gallery/) for photos of the sauna, the house and Joel's drawings.
-
-## Visiting
-
-We are still building, so visits and sauna sessions are limited and by arrangement. See [booking](/bookings/) or [get in touch](/contact/) at {{< param email >}}.
+The sauna is wood-fired. The house is nearing completion. For current information about visits, sauna sessions, or the project, [get in touch](/contact/).

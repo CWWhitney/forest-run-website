@@ -2,7 +2,7 @@
 
 baseURL = "https://forestrun.org/"
 languageCode = "en-us"
-title = "Forest Run Collective"
+title = "Forest Run"
 theme = "beautifulhugo"
 
 [markup]
@@ -11,7 +11,7 @@ theme = "beautifulhugo"
       unsafe = true
 
 [Params]
-  description = "A wood-fired sauna and icosahedron house, built by hand in Camden, Maine"
+  description = "Trails, a wood-fired sauna, and a hand-built one-V house in Camden, Maine."
   email = "cory@forestrun.org"
   admin_email = "admin@forestrun.org"
   bookings_email = "booking@forestrun.org"
@@ -19,8 +19,8 @@ theme = "beautifulhugo"
   logo = "images/Logo_circle_white.png"
   favicon = "images/Logo_Circle_Black.png"
   banner = "images/Logo_Banner.png"
-  subtitle = "Retreat. Recover. Reconnect."
-  mainSections = ["services", "bookings", "about"]
+  subtitle = "Camden, Maine · Trails · Sauna · House"
+  mainSections = []
   socialShare = true
   readingTime = true
   showRelatedPosts = true
@@ -28,7 +28,7 @@ theme = "beautifulhugo"
   comments = false
 
 [Params.author]
-  name = "Forest Run Collective"
+  name = "Forest Run"
 
 [outputs]
   home = ["HTML"]
@@ -39,25 +39,25 @@ theme = "beautifulhugo"
     url = "/"
     weight = 1
   [[menu.main]]
-    name = "Build Journal"
-    url = "/build-journal/"
+    name = "Project"
+    url = "/about/"
     weight = 2
   [[menu.main]]
-    name = "House + Sauna"
+    name = "House and Sauna"
     url = "/house-sauna/"
     weight = 3
   [[menu.main]]
-    name = "Gallery"
+    name = "Photographs"
     url = "/gallery/"
-    weight = 4
-  [[menu.main]]
-    name = "Bookings"
-    url = "/bookings/"
     weight = 5
   [[menu.main]]
-    name = "About"
-    url = "/about/"
+    name = "Visit"
+    url = "/bookings/"
     weight = 6
+  [[menu.main]]
+    name = "Journal"
+    url = "/build-journal/"
+    weight = 4
   [[menu.main]]
     name = "Contact"
     url = "/contact/"
