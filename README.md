@@ -1,24 +1,32 @@
 # Forest Run website
 
-Source for [forestrun.org](https://forestrun.org): the sauna and icosahedron
-house at Forest Run in Camden, Maine. Hugo site, deployed by Netlify.
+Source for [forestrun.org](https://forestrun.org): Forest Run in Camden, Maine.
+This is a Hugo site in an RStudio project, served locally with blogdown and
+built by Netlify. Site pages are Markdown in `content/`; settings and navigation
+are in `config.toml`. There are no `.Rmd` pages in the current site.
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/235c4b03-c385-4045-917f-e631560f77a4/deploy-status)](https://app.netlify.com/)
-
-- preview the site locally: `blogdown::serve_site()` (needs Hugo 0.130.0, the
-  version Netlify uses: `blogdown::install_hugo("0.130.0")` and
+- Preview locally: `blogdown::serve_site()` (needs Hugo 0.130.0, the version
+  Netlify uses: `blogdown::install_hugo("0.130.0")` and
   `options(blogdown.hugo.version = "0.130.0")`)
+- Edit pages in `content/` and menu or email settings in `config.toml`.
+- Rebuild the selected house and sauna web photos from their originals with
+  `scripts/process-photos.py`. The CSV selection files record exactly which
+  source files are used and their web names. For example:
 
-- edit pages in `content/`, menu and emails in `config.toml`
+  ```sh
+  python3 -I scripts/process-photos.py \
+    "/Users/corywhitney/Library/CloudStorage/Dropbox/Personal/House/Camden/Cabin/Cabin_Photos" \
+    house scripts/house-photo-selection.csv
+  python3 -I scripts/process-photos.py \
+    "/Users/corywhitney/Library/CloudStorage/Dropbox/Personal/House/Camden/Cabin/Sauna_photos" \
+    sauna scripts/sauna-photo-selection.csv
+  ```
 
-- add photos: put the originals in a folder outside this repo, then run
-  `python3 -I scripts/process-photos.py "<folder>" build` (or `sauna`).
-  Sketches: `python3 -I scripts/process-sketches.py "<folder>" drawings`.
-  This makes small web copies with GPS data removed in `static/images/`.
-  Show them on a page with `{{< gallery dir="images/sauna" >}}`
-  (default `images/build`; add `fit="contain"` for drawings)
-
-- publish: commit and push. Netlify builds the live site
+  The script corrects image orientation, resizes to at most 1400 pixels,
+  strips metadata, and writes web JPEGs to `static/images/`. It leaves the
+  original photos in their source folders. Update a selection CSV to change
+  which photos are used.
+- Publish by committing and pushing. Netlify builds the live site.
 
 Keep the git repo out of Dropbox (it corrupted `.git` once). Do not edit
 `public/` or `themes/`.

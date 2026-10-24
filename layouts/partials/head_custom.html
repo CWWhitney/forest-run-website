@@ -1,62 +1,55 @@
 <style>
-/* Remove oval background behind logo, scale bigger, center align */
-.navbar-custom .avatar-container .avatar-img-border {
-  background: #333 !important;
-  border: none !important;
-  box-shadow: none !important;
-  width: 115px !important;
-  height: 115px !important;
-  min-width: 115px !important;
-  min-height: 115px !important;
-  max-width: 115px !important;
-  max-height: 115px !important;
+/* Keep the circular logo beside the site name, clear of the navigation. */
+.navbar-custom .avatar-container {
+  left: 12px !important;
+  top: 5px !important;
+  width: 40px !important;
+  margin: 0 !important;
+  opacity: 1 !important;
+  visibility: visible !important;
+  z-index: 2;
+}
+
+.navbar-custom .avatar-img-border {
+  width: 40px !important;
+  height: 40px !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  border: 0 !important;
   border-radius: 50% !important;
   overflow: hidden !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  aspect-ratio: 1 / 1 !important;
+  box-shadow: none !important;
 }
 
-.navbar-custom .avatar-container .avatar-img {
-  width: 115px !important;
-  height: 115px !important;
-  min-width: 115px !important;
-  min-height: 115px !important;
-  max-width: 115px !important;
-  max-height: 115px !important;
+.navbar-custom .avatar-img {
+  display: block !important;
+  width: 40px !important;
+  height: 40px !important;
+  max-width: 40px !important;
+  max-height: 40px !important;
+  margin: 0 !important;
+  padding: 0 !important;
   border-radius: 50% !important;
-  object-fit: cover !important;
-  transform: scale(1.3) !important;
-  padding: 0 !important;
-  margin: 0 !important;
-  aspect-ratio: 1 / 1 !important;
+  object-fit: contain !important;
+  transform: none !important;
 }
 
-.navbar-custom .avatar-container {
-  text-align: center !important;
-  display: flex !important;
-  justify-content: center !important;
-  align-items: center !important;
+.navbar-custom .navbar-header .navbar-brand {
+  padding-left: 62px !important;
 }
 
-/* Adjust for mobile */
-@media (max-width: 768px) {
-  .navbar-custom .avatar-container .avatar-img-border {
-    width: 75px !important;
-    height: 75px !important;
-    min-width: 75px !important;
-    min-height: 75px !important;
-    max-width: 75px !important;
-    max-height: 75px !important;
+.navbar-custom.top-nav-short .avatar-container {
+  opacity: 1 !important;
+  visibility: visible !important;
+}
+
+@media (min-width: 768px) {
+  .navbar-custom .avatar-container {
+    top: 25px !important;
   }
-  .navbar-custom .avatar-container .avatar-img {
-    width: 75px !important;
-    height: 75px !important;
-    min-width: 75px !important;
-    min-height: 75px !important;
-    max-width: 75px !important;
-    max-height: 75px !important;
-    transform: scale(1.3) !important;
+
+  .navbar-custom.top-nav-short .avatar-container {
+    top: 5px !important;
   }
 }
 </style>
