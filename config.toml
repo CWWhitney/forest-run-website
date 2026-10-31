@@ -11,7 +11,9 @@ theme = "beautifulhugo"
       unsafe = true
 
 [Params]
-  description = "Trails, a wood-fired sauna, and a hand-built one-V house in Camden, Maine."
+  description = "A wood-fired sauna and an icosahedron house in Camden, Maine, opening January 2027."
+  homeTitle = "Forest Run"
+  since = 2019
   email = "cory@forestrun.org"
   admin_email = "admin@forestrun.org"
   bookings_email = "booking@forestrun.org"
@@ -21,27 +23,19 @@ theme = "beautifulhugo"
   banner = "images/Logo_Banner.png"
   subtitle = "Camden, Maine · Trails · Sauna · House"
   mainSections = []
-  socialShare = true
+  socialShare = false
   readingTime = true
   showRelatedPosts = true
   rss = true
   comments = false
 
 [Params.author]
-  name = "Forest Run"
+  name = "Forest Run Collective LLC"
 
 [outputs]
   home = ["HTML"]
 
 [menu]
-  [[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
-  [[menu.main]]
-    name = "Project"
-    url = "/about/"
-    weight = 2
   [[menu.main]]
     name = "House and Sauna"
     url = "/house-sauna/"

@@ -1,11 +1,9 @@
 ---
 title: "Visit"
-description: "Ask about current visits and sauna availability at Forest Run in Camden, Maine."
+description: "Book the Forest Run sauna by the day from January 2027 in Camden, Maine."
 draft: false
 ---
 
-Forest Run is still being built. Sauna sessions and visits may be possible by arrangement, depending on current work on site.
+From January 2027 the sauna is available by the day. The day rate covers wood, cleaning and upkeep, and we aim to make it fair. Rate: to be announced.
 
-For current availability, email {{< param bookings_email >}} with your preferred dates and group size. We will let you know what is possible.
-
-For background on the project, see the [build journal](/build-journal/) and [photographs](/gallery/).
+Until then, visits are by arrangement. [Send your dates and group size](/contact/).

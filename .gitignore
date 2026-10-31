@@ -35,9 +35,9 @@ po/*~
 rsconnect/
 .DS_Store
 forest-run-website.Rproj
-
 # Hugo build output (Netlify builds it) and the old damaged .git
 public/
 resources/_gen/
 .hugo_build.lock
 .git-broken-OLD/
+.Rprofile

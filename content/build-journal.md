@@ -1,27 +1,24 @@
 ---
 title: "Build Journal"
-description: "The Forest Run build in Camden, Maine: from the first idea to a one-V, icosahedron house and wood-fired sauna."
+description: "Forest Run, Camden, Maine: from the 2019 land purchase to a finished sauna and a nearly finished house."
+aliases: ["/about/"]
 draft: false
 ---
 
-The Forest Run build is a family project by Joel and Cory Whitney. Here are the main steps so far.
+## 2019
 
-## 2019 · The idea
+Cory buys the land on Emery Way.
 
-Forest Run began with a plan for a place connected to running, recovery, and the woods near the Camden Snow Bowl.
+## 2022
 
-## 2022 · Design and permit
+The building permit is granted.
 
-The one-V house design took shape, and the building permit followed.
+## 2024
 
-## 2024 · Construction
+Construction begins, with the sauna first.
 
-Joel and Cory began on site and built the wood-fired sauna first. Work then moved to the house: its frame, roof, and exterior.
+## 2026
 
-![The roof taking shape on the one-V house](/images/house/house-roofing-progress.jpg)
+The sauna is finished. The house frame, roof and exterior are built.
 
-## Now
-
-The house is nearing completion. The [photographs](/gallery/#house) show the build; the [house and sauna page](/house-sauna/) explains the design.
-
-For updates or current information about visiting, [get in touch](/contact/).
+![Roof work on the house](/images/house/house-roofing-progress.jpg)

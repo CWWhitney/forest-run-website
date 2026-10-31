@@ -1,10 +1,12 @@
 ---
 title: "Contact"
-description: "Contact Forest Run about the project, visits, or sauna availability."
+description: "Contact Forest Run Collective LLC in Camden, Maine."
 draft: false
 ---
 
-For questions about Forest Run, visits, or sauna availability, use the form below or email {{< param email >}}.
+Forest Run Collective LLC, Emery Way, Camden, Maine 04843.
+
+Use the form or write to {{< param email >}}.
 
 <div class="contact-form">
 <form name="contact" method="POST" netlify>

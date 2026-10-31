@@ -1,21 +1,19 @@
 ---
 title: "House and Sauna"
-description: "A hand-built one-V, icosahedron house and wood-fired sauna at Forest Run in Camden, Maine."
+description: "An icosahedron house and a wood-fired sauna at Forest Run, Camden, Maine."
 draft: false
 ---
 
-Forest Run has two buildings: a wood-fired sauna and a house with a distinctive geometric form. Joel Whitney and Cory began building in 2024, after receiving the permit in 2022.
+## The house
 
-## The one-V house
+An icosahedron has twenty triangular faces. Dome builders call it a one-V (1V): the V stands for frequency, and one means the faces are not subdivided. Joel designed the house on that shape and leads the work on site.
 
-The house is an icosahedron: a form built from twenty triangular faces. Joel developed the design and has led much of the work on site. The shape sets the questions for the build: how to make a practical house from a geometry more often found in mathematics than in a neighborhood.
+![House frame among the trees](/images/house/house-frame-exterior.jpg)
 
-![The one-V house frame among the trees](/images/house/house-frame-exterior.jpg)
-
-The construction photos show the frame, the roof structure, and the exterior as it came together. [See selected house photographs](/gallery/#house).
+[House photographs](/gallery/#house) · [Joel's drawings](/drawings/)
 
 ## The sauna
 
-The wood-fired sauna was the first building completed. [See selected sauna photographs](/gallery/#sauna). For current information about access, [get in touch](/contact/).
+Wood-fired. Holds up to six people. Built first, and finished.
 
-[Build journal](/build-journal/) · [Contact](/contact/)
+[Sauna photographs](/gallery/#sauna)

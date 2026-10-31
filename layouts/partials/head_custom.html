@@ -58,4 +58,20 @@
     transform: scale(1.3) !important;
   }
 }
+
+/* Readable contrast (WCAG AA 4.5:1) */
+.navbar-custom .nav a, .navbar-custom .navbar-brand { color: #f0f0f0 !important; }
+footer .copyright, footer .theme-by, footer .credits { color: #d0d0d0 !important; }
+footer a { color: #e0e0e0 !important; }
+article a, .post-content a { color: #9fd2ff; }
+
+/* Contact form: labels above fields, full width */
+.contact-form label { display: block; margin-bottom: .25rem; }
+.contact-form input, .contact-form select, .contact-form textarea { width: 100%; max-width: 34rem; }
+.contact-form .form-group { margin-bottom: 1rem; }
+
+/* Phone: keep the logo clear of the page heading */
+@media (max-width: 767px) {
+  .intro-header .page-heading, .intro-header .post-heading, .intro-header .site-heading { padding-top: 70px !important; }
+}
 </style>
